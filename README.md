@@ -143,9 +143,7 @@ int main(int argc, char** argv)
 
 ### Grayscale Image
 
-
-
-
+![image](https://github.com/Jayashreerao15/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/74660507/5003dbac-8747-4f7a-9a39-9437b2e16308)
 
 ## Result:
 The CUDA program successfully converts the input image to grayscale using the GPU. The resulting grayscale image is saved as an output file. This example demonstrates the power of GPU parallelism in accelerating image processing tasks.
